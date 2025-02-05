@@ -1,0 +1,10 @@
+venv/
+app.log
+movie/temp_video.mp4
+static/output_video.mp4
+*.pt
+*.mov
+.coverage
+.coverage.*
+*.pyc
+.vscode
